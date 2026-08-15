@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="zxsG5gx7ronwG51lDrVk">
+    <mxGraphModel dx="1653" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-7" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AgendaDeAniversarios&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p data-path-to-node=&quot;3,0,0&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;code data-path-to-node=&quot;3,0,0&quot; data-index-in-node=&quot;0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;+ adicionarAniversariante(nome: String, dia: int, mes: int)&lt;/code&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;3,0,1&quot; id=&quot;p-rc_0087b1522f50ae9e-156&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p data-path-to-node=&quot;3,1,0&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;code data-path-to-node=&quot;3,1,0&quot; data-index-in-node=&quot;0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;+ obterAniversariantesDoDia(dia: int, mes: int): ArrayList&amp;lt;String&amp;gt;&lt;/code&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;3,1,1&quot; id=&quot;p-rc_0087b1522f50ae9e-157&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;p data-path-to-node=&quot;3,2,0&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;code data-path-to-node=&quot;3,2,0&quot; data-index-in-node=&quot;0&quot; style=&quot;font-family: &amp;quot;Google Sans Text&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;+ removerAniversariante(nomeAniversariante: String)&lt;/code&gt;&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1&quot; id=&quot;p-rc_0087b1522f50ae9e-158&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;sup class=&quot;superscript&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important; font-size: 16px !important; background-color: transparent !important;&quot;&gt;&lt;/sup&gt;&lt;/span&gt;  &lt;/p&gt;&lt;/li&gt;" vertex="1">
+          <mxGeometry height="150" width="360" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-25" edge="1" parent="1" source="FIAC86wj-OVwM0CR2JoW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="FIAC86wj-OVwM0CR2JoW-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="359" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-8" parent="1" style="html=1;whiteSpace=wrap;" value="MinhaAgendaDeAniversarios" vertex="1">
+          <mxGeometry height="50" width="170" x="110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-27" edge="1" parent="1" source="FIAC86wj-OVwM0CR2JoW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="FIAC86wj-OVwM0CR2JoW-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-13" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Aniversariante" vertex="1">
+          <mxGeometry height="76" width="210" x="90" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-14" parent="FIAC86wj-OVwM0CR2JoW-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- nome: String&lt;div&gt;- dataAniversario: DataAniversario&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="210" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="DataAniversario" vertex="1">
+          <mxGeometry height="76" width="140" x="450" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-18" parent="FIAC86wj-OVwM0CR2JoW-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="- dia: int&lt;div&gt;- mes: int&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="140" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="FIAC86wj-OVwM0CR2JoW-28" edge="1" parent="1" source="FIAC86wj-OVwM0CR2JoW-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;entryX=0.458;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" target="FIAC86wj-OVwM0CR2JoW-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135" y="190" as="sourcePoint" />
+            <mxPoint x="210" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
